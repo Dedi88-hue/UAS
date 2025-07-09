@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">coffee</string>
+    <string name="choise_your_nfavorite_coffe">Choise your/nFavorite Coffe</string>
+    <string name="choise_your_nfavorite_coffee">Choise your\nFavorite Coffee</string>
+    <string name="the_best_grain_the_finest_roast_nthe_powerfull_flavor">The best grain, the finest roast\nthe powerfull flavor</string>
+    <string name="the_best_grain_the_finest_roast_nthe_powerfull">The best grain, the finest roast\nthe powerfull</string>
+    <string name="get_started">Get Started</string>
+    <string name="search_anything">Search anything...</string>
+    <string name="category">Category</string>
+    <string name="popular_coffee">popular coffee</string>
+    <string name="see_all">see all</string>
+    <string name="title_sample">title</string>
+    <string name="price_placeholder">$-</string>
+
+</resources>
